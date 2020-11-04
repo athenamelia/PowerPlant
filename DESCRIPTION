@@ -1,0 +1,19 @@
+Package: PowerPlant
+Title: Information on generation, ownership and fuel types of global power plants
+Version: 0.1.0
+Authors@R:
+    person(given = "Amelia",
+           family = "Tran",
+           role = c("aut", "cre"),
+           email = "tran26h@mtholyoke.edu")
+Description: Everything you might want to know about global Power Plant 
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Depends: R (>= 2.10)
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
