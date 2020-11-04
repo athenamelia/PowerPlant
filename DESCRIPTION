@@ -17,3 +17,5 @@ Suggests:
     knitr,
     rmarkdown
 VignetteBuilder: knitr
+URL: https://github.com/athenamelia/PowerPlant
+BugReports: https://github.com/athenamelia/PowerPlant/issues
