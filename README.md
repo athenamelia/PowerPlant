@@ -5,6 +5,7 @@
 
 <!-- badges: start -->
 
+![R-CMD-check](https://github.com/athenamelia/PowerPlant/workflows/R-CMD-check/badge.svg)
 <!-- badges: end -->
 
 The goal of PowerPlant is to give insights on plant capacity,

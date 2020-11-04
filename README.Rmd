@@ -16,6 +16,7 @@ knitr::opts_chunk$set(
 # PowerPlant
 
 <!-- badges: start -->
+![R-CMD-check](https://github.com/athenamelia/PowerPlant/workflows/R-CMD-check/badge.svg)
 <!-- badges: end -->
 
 The goal of PowerPlant is to give insights on plant capacity, generation, ownership, and fuel type of global power plants
