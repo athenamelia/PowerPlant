@@ -6,7 +6,8 @@ Authors@R:
            family = "Tran",
            role = c("aut", "cre"),
            email = "tran26h@mtholyoke.edu")
-Description: Everything you might want to know about global Power Plant 
+Description: Everything you might want to know about global Power Plant.
+  It provides access to some power plants.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
